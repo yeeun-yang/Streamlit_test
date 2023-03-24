@@ -1,2 +1,1 @@
-Movie
-TMDb
+tmdbv3api
