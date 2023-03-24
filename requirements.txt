@@ -1,0 +1,4 @@
+pickles==23.0.1
+streamlit
+Movie
+TMDb
