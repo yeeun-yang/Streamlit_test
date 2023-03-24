@@ -1,0 +1,5 @@
+pickle
+streamlit
+tmdbv3api
+Movie
+TMDb
